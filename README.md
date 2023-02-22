@@ -1,6 +1,6 @@
 # NIH X-Ray Dataset Converter for ML.NET
 
-1. pip install -r requirements.txt
+1. Run the following command in your terminal: `pip install -r requirements.txt`
 2. Convert `.env-sample` -> `.env`
 3. Fill out the specified `.env` values
 4. Run `main.py`
