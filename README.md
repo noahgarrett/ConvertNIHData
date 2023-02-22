@@ -8,3 +8,6 @@
 ### All images will be sorted into directories specified by class name
 
 To be used with the **NIH Chest X-rays** dataset located [here](https://www.kaggle.com/datasets/nih-chest-xrays/data?resource=download).
+
+## Example
+![Folder Structure Example](https://cdn.discordapp.com/attachments/1075883309009207349/1078038621896056872/image.png)
